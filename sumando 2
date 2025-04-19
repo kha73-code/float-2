@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main() {
+    float 
+
+x = 3.14;
+    float y = -0.001;
+    printf("El resultado es: %.2f\n", x + y);  // Salida: 3.14
+    
+
+
+return 0;
+}
